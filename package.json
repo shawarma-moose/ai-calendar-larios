@@ -9,6 +9,9 @@
   "peerDependencies": {
     "typescript": "^5"
   },
+  "scripts": {
+    "start": "bun run index.ts"
+  },
   "dependencies": {
     "@langchain/community": "^0.3.56",
     "@langchain/core": "^0.3.77",
